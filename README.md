@@ -68,9 +68,12 @@ If your app reads the key from a JS config file, add it to that file instead and
 - If data does not load, confirm the API key is valid and network requests are allowed.
 
 ---
+ Screenshots and Demo
+
+ ![Weather App Screenshot](demo.png)
 
 
-## Contributing
+ Contributing
 
 - Fork the repo, create a feature branch, and open a pull request.  
 - Keep commits focused and add tests or notes for UI changes.  
