@@ -71,7 +71,7 @@ If your app reads the key from a JS config file, add it to that file instead and
  Screenshots and Demo
 
  ![Weather App Screenshot](demo.png)
-
+[Download or watch the screen recording](demovid-weatherapp.mp4)
 
  Contributing
 
